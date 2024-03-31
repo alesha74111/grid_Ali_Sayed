@@ -42,7 +42,7 @@ button {
   width: 33px;
   height: 33px;
   margin-bottom: 64px;
-  background-image: url(/img/menu.svg);
+  background-image: url(../img/menu.svg);
   background-color: transparent;
   border: none;
   cursor: pointer;
